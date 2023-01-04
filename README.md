@@ -2,4 +2,4 @@
 Simple Image Gallery
 
 
-Basic Image Gallery that upload from react form & Store images in MongoDB database as Buffer type. After that, retrive as base64 String in react.
+Basic Image Gallery that images are store in MongoDB database as Buffer type then retrive as base64 String in react.
